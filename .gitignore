@@ -38,6 +38,7 @@ ScaffoldingReadMe.txt
 
 # dotenv environment variables file
 .env
+.env.*
 
 # Others
 ~$*
@@ -55,3 +56,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Archivos temporales de visual studio
+.vs/
+

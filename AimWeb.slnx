@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AimWeb/AimWeb.csproj" />
+  <Project Path="ApiAim2.0/ApiAim2.0.csproj" Id="95df2774-a6e3-4a68-829c-031a899f5f9f" />
+  <Project Path="TestAim/TestAim.csproj" Id="606738e9-37e7-4418-8ca1-7ba140d340be" />
+</Solution>
